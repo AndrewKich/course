@@ -1,0 +1,11 @@
+﻿  sfml_test.cpp
+sfml_test.cpp(27): warning C4305: аргумент: усечение из "double" в "float"
+sfml_test.cpp(28): warning C4305: аргумент: усечение из "double" в "float"
+sfml_test.cpp(29): warning C4305: аргумент: усечение из "double" в "float"
+sfml_test.cpp(30): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода
+  1 of 57 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  sfml_test.vcxproj -> E:\Andrift\Git\course\sfml_test\Release\sfml_test.exe
