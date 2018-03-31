@@ -1,3 +1,6 @@
-﻿  stdafx.cpp
-  sfml_test.cpp
+﻿  sfml_test.cpp
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(32): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(33): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(92): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
   sfml_test.vcxproj -> E:\Andrift\Git\course\sfml_test\Debug\sfml_test.exe
