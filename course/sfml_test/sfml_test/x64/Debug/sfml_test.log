@@ -1,6 +1,18 @@
 ﻿  sfml_test.cpp
-e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
-e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(32): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(33): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(92): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(45): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(49): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(50): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(64): warning C4305: =: усечение из "double" в "float"
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(68): warning C4305: =: усечение из "double" в "float"
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(72): warning C4305: =: усечение из "double" в "float"
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(76): warning C4305: =: усечение из "double" в "float"
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(107): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(109): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(110): warning C4305: =: усечение из "double" в "float"
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(115): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(116): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(135): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(154): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(173): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\andrift\git\course\sfml_test\sfml_test\sfml_test.cpp(183): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
   sfml_test.vcxproj -> E:\Andrift\Git\course\sfml_test\x64\Debug\sfml_test.exe
